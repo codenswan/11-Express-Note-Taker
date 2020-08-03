@@ -10,7 +10,10 @@ This project was developed by [codenswan](https://github.com/codenswan).
 * [Questions](#Questions)
 
 ## Description:
-This is command-line application that uses inquirer to generate a readme file.
+This application uses an express backend to save and retrieve note data from a JSON file. The deployed app allows the user to create and save notes, view those saved notes and deleted notes.
+
+## Business Context
+For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## Usage:
 The application is deployed at https://sleepy-ocean-15757.herokuapp.com/ 
