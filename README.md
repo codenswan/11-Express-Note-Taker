@@ -6,6 +6,7 @@ This project was developed by [codenswan](https://github.com/codenswan).
 ### Table of Contents
 * [Description](#Description)
 * [Usage](#Usage)
+* [Dependecies] (#Dependencies)
 * [License](#License)
 * [Questions](#Questions)
 
@@ -23,6 +24,8 @@ Here are some screenshots of the application.
 
 ![](public/assets/images/Screen%20Shot%202020-08-03%20at%202.48.03%20pm.png)
 
+## Dependencies
+Some dependencies for this app include express.js and [uniqid](https://www.npmjs.com/package/uniqid).
 
 ## License:
 This application is licensed under MPL2.0.
