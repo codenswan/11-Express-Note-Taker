@@ -6,6 +6,7 @@ This project was developed by [codenswan](https://github.com/codenswan).
 ### Table of Contents
 * [Description](#Description)
 * [Usage](#Usage)
+* [Dependecies](#Dependencies)
 * [License](#License)
 * [Questions](#Questions)
 
@@ -19,16 +20,12 @@ For users that need to keep track of a lot of information, it's easy to forget o
 The application is deployed at https://sleepy-ocean-15757.herokuapp.com/ 
 
 Here are some screenshots of the application. 
+![](public/assets/images/Screen%20Shot%202020-08-03%20at%202.45.11%20pm.png)
 
-This is the finished readme and a preview from vs code.
+![](public/assets/images/Screen%20Shot%202020-08-03%20at%202.48.03%20pm.png)
 
-![](Assets/Screen%20Shot%202020-07-20%20at%206.24.15%20pm.png)
-
-This is the finished inquirer in the terminal.
-
-![](Assets/Screen%20Shot%202020-07-20%20at%206.26.02%20pm.png)
-
-Here is a link to my [video demo](https://youtu.be/-EmBTYIDLuE)that demonstrates the working application.
+## Dependencies
+Some dependencies for this app include express.js and [uniqid](https://www.npmjs.com/package/uniqid).
 
 ## License:
 This application is licensed under MPL2.0.
