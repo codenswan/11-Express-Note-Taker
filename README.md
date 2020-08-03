@@ -5,25 +5,15 @@ This project was developed by [codenswan](https://github.com/codenswan).
 
 ### Table of Contents
 * [Description](#Description)
-* [Install Instructions](#Installation)
 * [Usage](#Usage)
 * [License](#License)
-* [Contribution](#Contribution)
-* [Tests](#Tests)
 * [Questions](#Questions)
 
 ## Description:
 This is command-line application that uses inquirer to generate a readme file.
 
-## Installation:
-    npm install
-    
 ## Usage:
-The entry point for the application is through the command 
-
-```
-node index.js
-```
+The application is deployed at https://sleepy-ocean-15757.herokuapp.com/ 
 
 Here are some screenshots of the application. 
 
@@ -40,11 +30,6 @@ Here is a link to my [video demo](https://youtu.be/-EmBTYIDLuE)that demonstrates
 ## License:
 This application is licensed under MPL2.0.
 
-## Contribution:
-For the information on markdown formatting I consulted the following [guide](https://guides.github.com/features/mastering-markdown/). 
-
-## Tests:
-    npm run test
 ---
 ## Questions:
 Developed by codenswan. 
