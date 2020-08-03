@@ -21,6 +21,8 @@ The application is deployed at https://sleepy-ocean-15757.herokuapp.com/
 Here are some screenshots of the application. 
 ![](public/assets/images/Screen%20Shot%202020-08-03%20at%202.45.11%20pm.png)
 
+![](public/assets/images/Screen%20Shot%202020-08-03%20at%202.48.03%20pm.png)
+
 
 ## License:
 This application is licensed under MPL2.0.
