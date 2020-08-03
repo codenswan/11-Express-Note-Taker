@@ -6,7 +6,7 @@ This project was developed by [codenswan](https://github.com/codenswan).
 ### Table of Contents
 * [Description](#Description)
 * [Usage](#Usage)
-* [Dependecies] (#Dependencies)
+* [Dependecies](#Dependencies)
 * [License](#License)
 * [Questions](#Questions)
 
